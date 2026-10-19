@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "Lecture Lens",
+    "slug": "lecture-lens",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#F8F7F4"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {},
+    "plugins": [
+      "expo-asset"
+    ]
+  }
+}
